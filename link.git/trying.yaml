@@ -1,0 +1,5 @@
+name: trial workflow
+
+jobs:
+  - name: first step
+    run: echo "this is a trial workflow!"
